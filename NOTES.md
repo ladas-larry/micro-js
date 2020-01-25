@@ -18,3 +18,5 @@ Prettier check on CI :)
 Babel will now inspect all your code for features that are missing in your target environments and include only the required polyfills. For example this code:
 
 mozna i neco pro styly
+
+CI - run on push to master
