@@ -1,12 +1,5 @@
-function ahoj(test) {
-  return "jsem kokot";
+function sum(a, b) {
+  return a + b;
 }
-ahoj();
-
-
-let nsssse = [1, 2, 3];
-
-var arr5 = [1, 2, , 4, 5];
-arr5.flat();
-console.log(arr5);
+module.exports = sum;
 
