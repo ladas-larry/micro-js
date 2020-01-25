@@ -20,3 +20,5 @@ Babel will now inspect all your code for features that are missing in your targe
 mozna i neco pro styly
 
 CI - run on push to master
+
+test
