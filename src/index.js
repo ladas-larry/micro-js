@@ -1,5 +1,3 @@
-import "core-js";
-
 function ahoj(test) {
   return "jsem kokot";
 }
