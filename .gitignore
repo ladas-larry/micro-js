@@ -1,0 +1,53 @@
+# package directories
+node_modules
+jspm_packages
+
+.vscode
+.idea
+
+.pnp.js
+.pnp
+
+
+# dependencies
+/node_modules
+/serverless/node_modules
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Serverless directories
+.serverless
+
+
+# Terraform files
+.terraform
+terraform.tfstate
+terraform.tfvars
+*.tfstate*
+
+# OS X files
+.history
+.DS_Store
+
+# IntelliJ files
+.idea_modules
+*.iml
+*.iws
+*.ipr
+.idea/
+build/
+*/build/
+out/
