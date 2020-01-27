@@ -22,3 +22,7 @@ mozna i neco pro styly
 CI - run on push to master
 
 test
+
+deployment to s3, Terraform
+
+Will need to create S3 secrets
