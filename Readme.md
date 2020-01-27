@@ -1,3 +1,3 @@
 # Minimal frontend setup
 
-Prettier + ESLint + Jest + Github Actions
+Babel + Prettier + ESLint + Jest + Github Actions
