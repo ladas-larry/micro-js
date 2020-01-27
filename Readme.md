@@ -1,9 +1,3 @@
-Yarn
+#Minimal frontend setup
 
-Prettier
-
-Integration prettier + esLint
-
-Source map
-
-yarn browserslist
+Prettier + ESLint + Jest + Github Actions
