@@ -2,4 +2,4 @@
 
 Babel + Prettier + ESLint + Jest + Github Actions + S3 + Terrraform
 
-No Virtial DOM, No Webapack
+No UI framework, no Virtial DOM, no Webapack
