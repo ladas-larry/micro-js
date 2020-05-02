@@ -1,5 +1,5 @@
 # Minimal frontend setup
 
-Babel + Prettier + ESLint + Jest + Github Actions + S3 + Terrraform
+Babel + Prettier + ESLint + Jest + Github Actions + Netlify
 
 No UI framework, no Virtial DOM, no Webapack
